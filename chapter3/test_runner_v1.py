@@ -1,3 +1,8 @@
+"""In this file we group test cases in a list (suite)
+then we use class TestLoader and loadTestsFromTestCase method
+to create list of test suites
+"""
+
 import unittest
 import calc_tests
 
